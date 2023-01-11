@@ -1,6 +1,10 @@
 # Programa para criar SQUADS no Valorant
 
+<p align="center">
+
 ![image](https://user-images.githubusercontent.com/100639279/211865535-d4bbbd24-2569-466c-965b-0fe6fa7a40d4.png)
+  
+</p>
 
 
 Esse projeto foi desenvolvido como objeto de estudo e primeiro contato com React.JS, foi usado como base o design e ideia do ORGANO, um programa de organização de equipes em empresas, separadas por derpatamento, a minha ideia foi criar um organizador de squads do valorant, onde o usuário teria que ser capaz de;
