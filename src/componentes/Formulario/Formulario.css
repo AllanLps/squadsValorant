@@ -12,3 +12,19 @@
     box-shadow: 8px 8px 16px rgba(0,0,0,42%);
     padding: 36px 64px;
 }
+
+@media screen and (max-width: 768px) {
+    .formulario form{
+        padding: 1rem;
+    }
+    .formulario h2{
+        text-align: center;
+        padding: 1rem 0;
+    }
+    .formulario input {
+        padding: 1rem;
+    }
+    .formulario select {
+        padding: 1rem;
+    }
+}
