@@ -8,7 +8,7 @@
 
 ## 💡 Sobre o projeto 
 
-Esse projeto foi desenvolvido como objeto de estudo e primeiro contato com React.JS, foi usado como base o design e ideia do ORGANO, um programa de organização de equipes em empresas, separadas por derpatamento, a minha ideia foi criar um organizador de squads do valorant, onde o usuário teria que ser capaz de;
+Esse projeto foi desenvolvido como objeto de estudo e primeiro contato com React.JS, foi usado como base o design e ideia do ORGANO, um programa de organização de equipes em empresas, separados por departamento, a minha ideia foi criar um organizador de squads do valorant, onde o usuário teria que ser capaz de;
 
 - Colocar o nickname do jogo
 - Colocar uma foto por meio de link
