@@ -12,12 +12,12 @@ const Rodape = () => {
                     </a>
                 </li>
                 <li>
-                    <a href="linkedin.com" target="_blank">
+                    <a href="https://www.linkedin.com/in/allanlps/" target="_blank">
                         <img src="/imagens/linkedin.png" width='30' alt="" />
                     </a>
                 </li>
                 <li>
-                    <a href="instagram.com.br" target="_blank">
+                    <a href="https://github.com/AllanLps" target="_blank">
                         <img src="/imagens/github.png" alt="" />
                     </a>
                 </li>
